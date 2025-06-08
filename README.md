@@ -1,13 +1,14 @@
 # 📊 Apresentação do Relatório Cyclist Bike-Share: 📈
-![Slide1](https://github.com/user-attachments/assets/64f20922-9960-4d04-94ea-8a26503afb08)
-![Slide2](https://github.com/user-attachments/assets/d472ffe3-a25f-408e-80e7-2063cd9b7f13)
-![Slide3](https://github.com/user-attachments/assets/b1489c80-0a4e-4ada-bb3d-4bb612a54008)
-![Slide4](https://github.com/user-attachments/assets/7d03b5ad-4149-40d5-8a72-e2bea9866ab2)
-![Slide5](https://github.com/user-attachments/assets/1dbd03af-12ae-46a5-9935-5d7783df31b9)
-![Slide6](https://github.com/user-attachments/assets/b65473bc-20ab-41a6-a6e5-74af2fd64071)
-![Slide7](https://github.com/user-attachments/assets/1511a1df-6bb9-4eb2-aab3-47ddcf738543)
-![Slide8](https://github.com/user-attachments/assets/02f2025d-22db-4726-9d5d-a4394fdfe1a2)
-![Slide9](https://github.com/user-attachments/assets/b2909644-bb37-4821-88c0-9d1f4dc626c3)
+![Slide1](https://github.com/user-attachments/assets/339c33eb-a72d-4a6d-aa1b-1d6fa7cec5b9)
+![Slide2](https://github.com/user-attachments/assets/965cf84c-cd68-4750-a525-a701758fa358)
+![Slide3](https://github.com/user-attachments/assets/1754206d-f44e-446a-9859-0c1ded6d79e7)
+![Slide4](https://github.com/user-attachments/assets/2bfdff67-9155-4b71-bdb7-f330931c8cc1)
+![Slide5](https://github.com/user-attachments/assets/a6c1b3c6-4834-4b88-a3f9-db0446160646)
+![Slide6](https://github.com/user-attachments/assets/95fa1013-8794-4e5d-85e3-40b23860f1ec)
+![Slide7](https://github.com/user-attachments/assets/6fbd8a07-5434-456b-8059-fb590fd20961)
+![Slide8](https://github.com/user-attachments/assets/633a4e49-0078-43a8-9ee1-c9efdbe0b5a6)
+![Slide9](https://github.com/user-attachments/assets/358e72b1-a1f6-45d6-83ba-4f075ee3fab6)
 
 
-Arquivo em PDF : [Apresentação](https://github.com/user-attachments/files/20646777/Portuguese.report.pdf)
+
+Arquivo de Apresentação : [Power Point](https://github.com/user-attachments/files/20647302/Portuguese.report.pptx), [PDF](https://github.com/user-attachments/files/20647305/Portuguese.report.pdf)
