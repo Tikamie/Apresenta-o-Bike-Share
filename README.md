@@ -7,6 +7,7 @@
 ![Slide6](https://github.com/user-attachments/assets/b65473bc-20ab-41a6-a6e5-74af2fd64071)
 ![Slide7](https://github.com/user-attachments/assets/1511a1df-6bb9-4eb2-aab3-47ddcf738543)
 ![Slide8](https://github.com/user-attachments/assets/02f2025d-22db-4726-9d5d-a4394fdfe1a2)
-![Slide9](https://github.com/user-attachments/assets/c4afd547-4473-428c-9bf2-7e6940276788)
+![Slide9](https://github.com/user-attachments/assets/b2909644-bb37-4821-88c0-9d1f4dc626c3)
+
 
 Arquivo em PDF : [Apresentação](https://github.com/user-attachments/files/20646777/Portuguese.report.pdf)
