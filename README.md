@@ -1,5 +1,5 @@
 # 📊 Apresentação do Relatório Cyclist Bike-Share: 📈
-![Slide1](https://github.com/user-attachments/assets/339c33eb-a72d-4a6d-aa1b-1d6fa7cec5b9)
+![Slide1](https://github.com/user-attachments/assets/dda8af87-d583-43b4-82f7-f426e3edb857)
 ![Slide2](https://github.com/user-attachments/assets/965cf84c-cd68-4750-a525-a701758fa358)
 ![Slide3](https://github.com/user-attachments/assets/1754206d-f44e-446a-9859-0c1ded6d79e7)
 ![Slide4](https://github.com/user-attachments/assets/2bfdff67-9155-4b71-bdb7-f330931c8cc1)
@@ -12,4 +12,4 @@
 
 
 
-Arquivo de Apresentação : [PPTX](https://github.com/user-attachments/files/20647302/Portuguese.report.pptx), [PDF](https://github.com/user-attachments/files/20647305/Portuguese.report.pdf)
+Arquivo de Apresentação : [PPTX](https://github.com/user-attachments/files/20655506/Portuguese.report.pptx), [PDF](https://github.com/user-attachments/files/20655508/Portuguese.report.pdf)
